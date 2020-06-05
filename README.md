@@ -16,4 +16,10 @@ Created a retro-arcade themed website to familiarize myself with GatsbyJS and Re
 **DISCLAIMER:** I do not own any of the images on the website 
 
 # Website Preview
+<img src = "WebsiteImages/Pic4.png">
+<img src = "WebsiteImages/Pic3.png">
+<img src = "WebsiteImages/Pic2.png">
+<img src = "WebsiteImages/Pic1.png">
+
+
 
