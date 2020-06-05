@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+.content{
+    margin: 10 auto;
+    width: 960;
+    padding: 0 1.0875rem 1.45rem;
+    margin-top: 120px;
+    font-family: 'Press Start 2P', cursive;
+}
+body{
+    background-color:lightcyan;
+}
+
+.center{
+    margin-left:33%;
+    text-align:center;
+}
+
+#content{
+    font-size:30px;
+    margin-top: 30px;
+}
+
+#followus{
+    font-size:30px;
+    margin-top: 150px;
+    margin-bottom:20px;
+}
+#icon{
+    margin-top:10px;
+    margin-left:20px;
+}
+#kirby{
+    margin-left: 20px;
+    bottom: 180px;
+}
+#kirbybubble{
+    margin-left: 50px;
+}
+#ash{
+    margin-left: 400px;
+    bottom: 160px;
+}
+#ashbubble{
+    display:inline-block;
+    margin-left: 600px;
+    bottom:120px;
+}
+.align{
+    display:inline-block;
+}
+#name{
+    text-align:left;
+    margin-top:15px;
+}
+
+#progressbar{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+#starleft{
+    margin-bottom: 200px;
+    margin-left: 80px;
+}
+
+#tag1{
+    margin-left: 5px;
+}
+#tag2{
+    margin-left: 30px;
+}

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap');
+.navbar-brand{
+    text-decoration:none;
+    font-family: 'Press Start 2P', cursive;
+    color:#5BA0DD;
+    /* padding: 1.45rem 1.0875rem; */
+    text-decoration:none;
+    margin-bottom: 16px;
+    font-size: 30px !important;
+}
+
+.navbar{
+    height:80px !important;
+}
