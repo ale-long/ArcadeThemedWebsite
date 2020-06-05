@@ -2,7 +2,7 @@
 
 Created a retro-arcade themed website to familiarize myself with GatsbyJS and ReactJS. I used reactstrap for implementing the navbars and the outline of the blog posts. In order to get the data for each post, I had to use GraphQL to query the data inside the MD files, which are responsible for the content of the post. 
 
-**Website Demo:** https://youtu.be/82dyo_JgbCE
+**Website Demo:** https://youtu.be/RZWP6xj8p4k
 
 **Tech Stack:** GatsbyJS, ReactJS, HTML, CSS, Reactstrap, GraphQL, Node.js
 
